@@ -17,6 +17,14 @@
 
 ![官方指定医院](hospital/hospital.jpg)
 
+## 城市信息
+
+[广州](city/GUANGZHOU.md)
+
+[深圳](city/SHENZHEN.md)
+
+[珠海](city/ZHUHAI.md)
+
 ## [官方捐赠信息](donate/DONATE.md)
 
 广东省第二人民医院（珠海高新区人民医院）接受社会捐赠公告
