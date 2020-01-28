@@ -10,12 +10,12 @@
 
 截止2020年1月27日24时：广东省新型冠状病毒肺炎新增确诊病例42例，累计188例。
 
-![截止2020年1月27日24时](data/20200127-guangdong.jpg)
+![截止2020年1月27日24时](https://pics6.baidu.com/feed/95eef01f3a292df5532a6b366f64436635a87380.jpeg?token=6e99685d59838059b3476cf565aaf31c&s=142277369721410B8A44FBF40300D021)
 
 
 ## [官方指定医院](hospital/HOSPITAL.md)
 
-![官方指定医院](hospital/hospital.jpg)
+![官方指定医院](http://news.southcn.com/gd/content/images/attachement/jpg/site4/20200121/6c4b908da8781f91210422.jpg)
 
 ## 城市信息
 
@@ -24,6 +24,8 @@
 [深圳](city/SHENZHEN.md)
 
 [珠海](city/ZHUHAI.md)
+
+
 
 ## [官方捐赠信息](donate/DONATE.md)
 
